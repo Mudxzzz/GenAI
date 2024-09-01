@@ -1,0 +1,1276 @@
+Clinical Nutrition
+Course content
+1. Introduction: explanation of the terms - nutrition, clinical nutrition, nutrients, nutritional
+status, under nutrition, malnutrition, obesity etc.
+2. Epidemiology of nutritional disorders in Nepal: common nutritional disorders and their
+prevalence rates and trends over the last ten years, causal factors.
+3. Features of macro and micronutrient deficiency and excess states, problems, assessment
+and prevention through dietary diversification, modification and fortification
+4. Methods of assessing nutritional status: body mass index, anthropometry, clinical and
+biochemical methods, growth standard charts: methods, development and interpretations
+5. Clinical classification of nutritional status and features of mild, moderate and severe
+malnutrition
+References: (Available online)
+1. Nikolaos Katsilambros . . . [et al.]. Clinical Nutrition in Practice, 2010 Blackwell Publishing Ltd
+2. National Nutrition Policy and Strategy, Nutrition Section, CHD, DoHS, MoH&P. 24thDecember 2004.
+3. Nepal Demographic and Health Survey 2011.Population Division, Ministry of Health and Population,
+Government of Nepal.
+4. Abhinav Vaidya, Suraj Shakya and Alexandra Krettek. Obesity Prevalence in Nepal: Public Health
+Challenges in a Low-Income Nation during an Alarming Worldwide Trend. Int. J. Environ. Res. Public
+Health 2010, 7, 2726-2744.LINES FOR SELECTIVE FEEDING::
+5. GUIDELINES FOR SELECTIVE FEEDING:THE MANAGEMENT OF MALNUTRITION. UNHCR,
+2011
+
+1|Page
+
+Clinical Nutrition
+
+Clinical Nutrition
+
+
+
+
+
+Central importance to the treatment of various diseases and health conditions
+Importance in hospital settings: an appropriate dietary plan can shorten the treatment period and hence
+the duration of a patient’s hospitalization
+Clinical Nutrition aims at screening, assessment and nutrition therapy in general medical treatment of
+patients and malnourished people who are at risk of severe health condition.
+Dietitians are the health professionals specialized in human nutrition, meal planning, economics, and
+preparation and are trained to provide safe, evidence-based dietary advice and management to
+individuals (in health and disease), as well as to institutions. Clinical nutritionists are the health
+professionals who focus more specifically on the role of nutrition in chronic disease, including possible
+prevention or remediation by addressing nutritional deficiencies before resorting to drugs.
+
+Nutrients: Nutrients are the nutritious components in foods that an organism utilizes to survive and grow.
+Carbohydrates
+
+
+
+
+
+
+
+The most prevalent organic molecules, a valuable source of energy (3.75 kcal/g) in the human diet.
+A daily basis: 100 g – 400 g.
+Severe deficiency: extensive breakdown of body protein, significant salt and water loss.
+Very low carbohydrate diet may also lead to bone mineral loss, hypercholesterolaemia, ketogenesis and
+ketone-body production in the mitochondria of liver cells; may not good for long term use.
+Excessive glucose intake (>400 g): hyperglycaemia, adverse effects on health as it is related to dental
+caries and chronic diseases, such as diabetes mellitus, obesity, heart disease, etc.
+Plasma concentrations of glucose must be carefully regulated.
+
+Dietary fibre and Health
+
+
+
+
+
+
+
+Soluble fibres (e.g. pectins and ß-glucans): viscous in solution and form gels in the small intestine, affect
+glucose and fat absorption.
+Insoluble fibers (cellulose and lignin) influence on bowel function.
+An insufficient consumption of dietary fibre: chronic disorders such as constipation, diabetes, obesity,
+cardiovascular disease, cancer of the large bowel and various other cancers.
+Recommendations for adult: 20–35 g/day.
+Recommendation for children older than 2 years: amount equal to or greater than their age plus 5 g/day
+and to until they achieve 20–35 g/day.
+No defined guideline of desirable fibre intakes for infants and children younger than 2 years, a rational
+approach would be to introduce a variety of fruits, vegetables and easily digested cereals as solid foods
+are brought into the diet.
+
+2|Page
+
+Natural sources of various components of dietary fibre.
+
+Fats and lipids
+
+
+
+
+Lipids: fats, oils, waxes and various other compounds like lipoproteins, phospholipids and cholesterol.
+Condensed source of energy (9 kcal/g), used by the organism as a long-term fuel reserve.
+Role in the absorption of fat-soluble vitamins, precursors for hormone synthesis, form an integral
+structural part of cell membranes, in which they play various specific roles (e.g. participating in cell
+signalling, etc.).
+
+Essential fatty acids
+
+
+
+
+Linoleic acid, an omega-6 polyunsaturated fatty acid, and alpha-linolenic acid, an omega-3
+polyunsaturated fatty acid
+Linoleic acid is the precursor to arachidonic acid: a component of membrane structural lipids and is
+important in cell signalling pathways. Lack of linoleic acid: skin rash, dermatitis and hair loss.
+Lack of alpha-linolenic acid: adverse clinical symptoms, including neurological abnormalities and poor
+growth.
+
+Saturated and unsaturated fatty acids
+
+
+
+
+Unsaturated : monounsaturated fatty acids (MUFA): one double bond, and polyunsaturated fatty acids:
+(PUFA), more than one double bond.
+MUFA (‘omega-9 fatty acids’): oleic acid in olive oil and peanut oil and they are believed to protect
+against coronary heart disease and some types of cancer.
+PUFA: omega-3 family and the omega-6 family, both of which are known to have positive effects on
+human health.
+3|Page
+
+
+
+
+
+
+
+
+Omega-6 PUFA: liquid vegetable oils, including soybean oil, corn oil and sunflower oil.
+Plant sources of omega-3 PUFA: soybean oil, canola oil, walnuts and flaxseed.
+Animal sources of omega-3 PUFA: fatty fish (e.g. trout, mackerel, herrings, salmon)
+Alpha-linolenic acid: precursor for synthesis of EPA and DHA, which are formed in varying amounts in
+animal tissues, especially fatty fish, but not in plant cells. EPA: beneficial effects in preventing
+coronary heart disease, and thrombosis, as well as to growth and neural development (DHA).
+Trans fatty acids (majority derived from partially hydrogenated oils), found in Bakery foods, shortenings
+and fried foods, such as potato chips, French fries, etc: associated with coronary heart disease,
+hypertension and insulin resistance.
+Saturated fats (animal fats, lard): in excess, coronary heart disease, hypertension and insulin resistance.
+
+Omega-3 and Omega-6 Fatty Acids
+
+Dietary allowance for fats
+
+
+
+Saturated fatty acid (SFA): 10%, MUFA (predominately oleic acid): 12%, PUFA: 10% of total daily
+energy intake. Linoleic acid (omega-6 PUFA): 1%, linolenic acid (omega-3 PUFA): at least 0.2% of
+total energy intake.
+Trans fatty acids:as low as possible.
+4|Page
+
+
+
+
+
+Higher intake (>35% of total energy intake): risk of overweight and obesity
+Lower intake (<20% of total energy intake): a risk of inadequate intakes of essential fatty acids and fatsoluble vitamins and the risk of an adverse effect on high-density lipoprotein cholesterol (HDLC).
+Guideline: total fat intake, between 20 and 35% of total energy intake.SFA should not exceed 10% of
+total energy intake, dietary cholesterol should be limited to 300 mg/day and consumption of trans fatty
+acids should be as low as possible.
+
+Proteins and amino acids
+
+
+
+
+
+
+
+Proteins:essential for life processes, involved in acid–base balance, fluid regulation, immunity, growth,
+differentiation, gene expression, metabolism and many other functions. Provide 4 kcal/g (16.7 kJ/g) of
+energy.
+Quality of proteins: essential amino acids, digestibility, absorptive capacity and biological value.
+Animal proteins considered to be of higher quality than plant protein because the latter lack various
+essential amino acids.
+Vegetarian diets: protein complementation, bread and peanut butter.
+Recommended daily protein intake: 0.8 g/kg body weight for adult men and women.
+Protein energy malnutrition is the commonest type of malnutrition in developing countries.
+Indispensable, dispensable and conditionally indispensable amino acids in the human diet.
+
+Vitamins
+
+
+
+Vitamins: the maintenance of normal metabolic functions
+Water-soluble vitamins, rapidly depleted and must be regularly replenished, while fat-soluble (lipidsoluble) vitamins are better stored in the body.
+5|Page
+
+
+
+
+Certain vitamins (beta-carotene, vitamin E and vitamin C): prevention of oxidative damage caused by
+free radicals; potential prevention of cancer, atherosclerosis and heart disease.
+vegans, who avoid animal products altogether, are at risk of developing B12 deficiency.
+
+Vitamin Classification
+
+Some examples of well-known side effects due to vitamin excess are:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+headaches (vitamin A)
+vomiting (vitamins A and D)
+nausea (vitamins D, C, nicotinamide, vitamin B6)
+spontaneous abortions and birth defects (vitamin A)
+diarrhoea (vitamin C, pantothenic acid, choline, carnitine)
+haemolytic anaemia and kernicterus (vitamin K)
+hepatomegaly (vitamin A, niacin)
+
+Which groups of people are at greatest risk of vitamin deficiency?
+
+
+
+
+
+
+
+the very young, and especially premature infants
+pregnant women
+the very old
+some categories of people suffering from chronic diseases, and especially chronically undernourished
+patients and chronic alcoholics, who commonly develop thiamin deficiency
+injured people, given the fact that vitamins (and especially ascorbic acid) play a role in wound healing
+strict vegetarians (vegans), who may be at increased risk of developing specific vitamin (B12)
+deficiencies.
+
+Minerals and trace elements
+1. Minerals and trace elements: required in only small or even trace quantities; essential for normal bodily
+function.
+2. Necessary for tissue structure, enzyme system function, fluid balance, cellular function and
+neurotransmission.
+3. The elements that are required in milligram quantities (sometimes several hundred milligrams) are
+called ‘minerals’; those required in microgram quantities are known as ‘trace elements’.
+6|Page
+
+NUTRIENT TABLE (Self Service)
+Nutrient
+
+Food Source
+
+RDI/RDA/RNI
+
+Function
+
+Deficiency
+Symptom/Disease
+
+Carbohydrates
+Proteins
+
+Malnutrition
+
+
+
+
+
+
+
+
+
+
+
+The World Health Organization (WHO): malnutrition is the ‘cellular imbalance between supply of
+nutrients and energy and the body’s demand for them to ensure growth, maintenance and specific
+functions’, and is the greatest risk factor for illness and death worldwide. It can be associated with both
+undernutrition and overnutrition.
+Under-consumption refers to the long-term consumption of insufficient sustenance in relation to
+the energy that an organism expends or expels, leading to poor health. Over-consumption refers to the
+long-term consumption of excess sustenance in relation to the energy that an organism expends or
+expels, leading to poor health and obesity.
+Women and children: vulnerable to nutrition
+Child: period from birth to age two, important for optimal physical, mental, and cognitive growth,
+health, and development. Unfortunately, protein-energy and micronutrient deficiencies, childhood
+illnesses such as diarrhea and acute respiratory infections are common.
+A woman’s nutritional status reflects child’s.
+Malnutrition in women: reduced productivity, increased susceptibility to infections, slowed recovery
+from illness, risk of adverse pregnancy outcomes, a greater risk of obstructed labor, of having a baby
+with a low birth weight, of producing low quality breast milk, of death from postpartum hemorrhage,
+and of morbidity for both herself and her baby.
+The most common causes of malnutrition:
+o Anorexia, inadequate food intake or lack of food supplies and loss of appetite
+o Different types of chronic and inflammatory diseases lead to reduced food intake and
+malnutrition
+o Psychological factors such as anxiety and depression or the presence of dementia
+
+Protein and energy malnutrition
+Protein–energy malnutrition (or protein–calorie malnutrition): inadequate protein intake.
+Kwashiorkor (protein malnutrition predominant), a severe form of undernutrition, low protein/energy ratio.
+The main symptoms: oedema, wasting, liver enlargement, hypoalbuminaemia, steatosis and the possible
+depigmentation of skin and hair.
+Marasmus (deficiency in calorie intake): inadequate intake of both protein and energy. The main symptoms:
+severe wasting, with little or no oedema, minimal subcutaneous fat, severe muscle wasting and non-normal
+serum albumin levels.
+Marasmic Kwashiorkor :marked protein deficiency and marked calorie insufficiency signs present, sometimes
+referred to as the most severe form of malnutrition.
+The most common physical signs of protein and energy malnutrition (PEM) are:
+7|Page
+
+
+
+
+
+
+
+
+
+
+weight loss and cachexia1
+decreased subcutaneous tissue and reduction in muscle and body tissue mass, which can be most often
+observed in the legs, arms, buttocks and face
+oedemas2
+neurological problems and abnormalities
+oral changes (red and usually swollen mouth, lips and gums)
+muscle cramp and pain
+skin changes (dry and peeling, frail, swollen, pale, loss of elasticity and poor healing)
+hair changes (dry and discoloured).
+
+Micronutrient Deficiencies
+ Profound adverse effects, may lead to increased risk of death, morbidity and susceptibility to infection,
+blindness, adverse birth outcomes, stunting, low work capacity, decreased cognitive capacity and mental
+retardation.
+ Reason:
+o Lack of suitable diversification in rations
+o Lack of access to fresh foods
+o Rations based on highly refined cereals that may be low in B vitamins, iron, potassium,
+magnesium and zinc
+o High rates of infection and/or diarrhoea in children
+o Anti-nutrients such as phytates present in many cereals can also inhibit absorption of certain
+micronutrients and exacerbate the deficiencies
+
+1
+
+a condition marked by loss of appetite, weight loss, muscular wasting, and general mental and physical debilitation. It is associated with the advanced stage of
+diseases such as cancer
+2
+
+Oedema, also known as dropsy, is a fluid build-up in the body's tissues that often causes swelling in the feet and ankles
+
+8|Page
+
+Major Micronutrient Deficiencies in Emergencies: Clinical Signs and Biochemical Test
+
+9|Page
+
+Most common clinical signs of vitamin and mineral deficiencies (FYI)
+
+Illnesses caused by improper nutrient consumption (FYI)
+Nutrients
+
+Deficiency
+
+Excess
+
+Macronutrients
+
+Calories
+
+Starvation, marasmus
+
+Obesity, diabetes mellitus, cardiovascular disease
+
+Simple
+Low energy levels.
+carbohydrates
+
+Obesity, diabetes mellitus, cardiovascular disease
+
+Complex
+Micronutrient deficiency
+carbohydrates
+
+Obesity, cardiovascular disease (high glycemic index foods)
+
+Protein
+
+Kwashiorkor
+
+Rabbit starvation, ketoacidosis (in diabetics)
+
+Saturated fat
+
+Low testosterone levels, vitamin
+Obesity, cardiovascular disease
+deficiencies.
+
+Trans fat
+
+None
+
+Obesity, cardiovascular disease
+
+10 | P a g e
+
+Unsaturated
+fat
+
+Fat-soluble vitamin deficiency
+
+Obesity, cardiovascular disease
+
+Micronutrients
+
+Vitamin A
+
+Xerophthalmia and night
+blindness
+
+Hypervitaminosis A (cirrhosis, hair loss)
+
+Vitamin B1
+
+Beri-Beri
+
+?
+
+Vitamin B2
+
+Skin and corneal lesions
+
+?
+
+Niacin
+
+Pellagra
+
+Dyspepsia, cardiac arrhythmias, birth defects
+
+Vitamin B12
+
+Pernicious anemia
+
+?
+
+Vitamin C
+
+Scurvy
+
+Diarrhea causing dehydration
+
+Vitamin D
+
+Rickets
+
+Hypervitaminosis D (dehydration, vomiting, constipation)
+
+Vitamin E
+
+Neurological disease
+
+Hypervitaminosis E (anticoagulant: excessive bleeding)
+
+Vitamin K
+
+Hemorrhage
+
+Liver damage
+
+Omega-3 fats Cardiovascular Disease
+
+Bleeding, Hemorrhages, Hemorrhagic stroke, reduced glycemic control among
+diabetics
+
+Omega-6 fats None
+
+Cardiovascular Disease, Cancer
+
+Cholesterol
+
+Cardiovascular Disease
+
+None
+
+Macrominerals
+
+11 | P a g e
+
+Calcium
+
+Osteoporosis, tetany, carpopedal
+Fatigue, depression, confusion, nausea, vomiting, constipation, pancreatitis, increased
+spasm, laryngospasm,cardiac
+urination, kidney stones
+arrhythmias
+
+Magnesium
+
+Hypertension
+
+Weakness, nausea, vomiting, impaired breathing, and hypotension
+
+Potassium
+
+Hypokalemia, cardiac
+arrhythmias
+
+Hyperkalemia, palpitations
+
+Sodium
+
+Hyponatremia
+
+Hypernatremia, hypertension
+
+Trace minerals
+
+Iron
+
+Anemia
+
+Cirrhosis, Hereditary hemochromatosis, heart disease
+
+Iodine
+
+Goiter, hypothyroidism
+
+Iodine toxicity (goiter, hypothyroidism)
+
+Source: Wikipedia
+
+12 | P a g e
+
+Classification of malnutrition
+Based on body weight:
+Classification of malnutrition based on percentage of expected body weight
+Type
+
+Percentage
+
+Mild
+
+85-90
+
+Moderate
+
+75-84
+
+Severe
+
+<74
+
+Classification of severe malnutrition in children (a system for classifying protein–energy malnutrition in
+children based on percentage of expected weight-for-age and the presence or absence of oedema)
+
+Classification of Acute Malnutrition for children of age 6-59 months:
+Based on Mid Upper Arm Circumference (Children):
+ Severe Acute Malnutrition (SAM):
+o SAM: MUAC < 115 mm
+o Moderate Acute Malnutrition (MAM): MUAC > 115 and < 125 mm
+For Adults:
+For men:
+SAM: MUAC < 224 mm
+MAM: MUAC > 224 mm and < 231 mm
+For women:
+SAM: MUAC < 214 mm
+MAM: MUAC > 214 mm and < 221 mm
+
+13 | P a g e
+
+Based on Body Mass Index (BMI)
+
+For adults: for both sexes:
+SAM: BMI < 16
+MAM: BMI > 16 and < 17
+
+14 | P a g e
+
+Classification of Malnutrition in Adults based on BMI
+
+Waist circumference:
+
+
+
+
+Waist circumference is measured at the level of the umbilicus to the nearest 0.5 cm. The subject stands
+erect with relaxed abdominal muscles, arms at the side, and feet together.
+Waist circumference predicts mortality better than any other anthropometric measurement.
+It has been proposed that waist measurement alone can be used to assess obesity, and two levels of risk
+have been identified.
+
+MALES
+
+FEMALE
+
+LEVEL 1
+
+> 94cm
+
+> 80cm
+
+LEVEL2
+
+> 102cm
+
+> 88cm
+
+Level 1 is the maximum acceptable waist circumference irrespective of the adult age and there should be no
+further weight gain.
+Level 2 denotes obesity and requires weight management to reduce the risk of type 2 diabetes & CVS
+complications.
+Hip Circumference: Is measured at the point of greatest circumference around hips & buttocks to the nearest
+0.5 cm. The subject should be standing and the measurer should squat beside him. Both measurement should be
+taken with a flexible, non-stretchable tape in close contact with the skin, but without indenting the soft tissue.
+Interpretation of waist/hip (ratioWHR)
+
+
+
+A WHR of 0.7 for women and 0.9 for men has been shown to correlate strongly with a general status of
+healthy.
+High risk WHR= >0.80 for females & >0.95 for males i.e. waist measurement >80% of hip
+measurement for women and >95% for men indicates central (upper body) obesity and is considered
+high risk for diabetes & CVS disorders.
+15 | P a g e
+
+
+
+A WHR below these cut-off levels is considered low risk.
+
+Classification of risk of diabetes (type 2), hypertension and cardiovascular disease associated with body
+weight.
+
+16 | P a g e
+
+Nutritional Assessment
+Purpose to:
+
+
+
+
+
+Identify individuals or population groups at risk of becoming malnourished
+Identify individuals or population groups who are malnourished
+To develop health care programs that meet the community needs which are defined by the
+assessment
+To measure the effectiveness of the nutritional programs & intervention once initiated
+
+Methods of Nutritional Assessment: Two types of methods: direct and indirect.
+Direct Methods of Nutritional Assessment
+Summarized as ABCD
+
+
+
+
+
+Anthropometric methods
+Biochemical, laboratory methods
+Clinical methods
+Dietary evaluation methods
+
+Indirect Methods of Nutritional Assessment
+These include three categories:
+
+
+
+
+Ecological variables including crop production
+Economic factors e.g. per capita income, population density & social habits
+Vital health statistics particularly infant & under 5 mortality & fertility index
+
+CLINICAL ASSESSMENT
+
+
+
+
+simplest & most practical method
+utilizes a number of physical signs, (specific & non specific): special attention to organs like
+hair, angles of the mouth, gums, nails, skin, eyes, tongue, muscles, bones, & thyroid gland.
+Detection of relevant signs helps in establishing the nutritional diagnosis
+
+ADVANTAGES
+
+
+
+
+Fast & Easy to perform
+Inexpensive
+Non-invasive
+
+LIMITATIONS: Did not detect early cases
+17 | P a g e
+
+Clinical signs of nutritional deficiency
+HAIR
+
+
+
+
+Spare & thin: Protein, zinc, biotin deficiency
+Easy to pull out :Protein deficiency
+Corkscrew, Coiled hair : Vit C & Vit A deficiency
+
+MOUTH
+
+
+
+
+
+
+Glossitis : Riboflavin, niacin, folic acid, B12 , pr.
+Bleeding & spongy gums: Vit. C,A, K, folic acid & niacin
+Angular stomatitis, cheilosis & fissured tongue: B 2,6,& niacin
+leukoplakia : Vit.A,B12, B-complex, folic acid & niacin
+Sore mouth & tongue: Vit B12,6,c, niacin ,folic acid & iron
+
+EYES
+
+
+
+Night blindness, exophthalmia: Vitamin A deficiency
+Photophobia-blurring, conjunctival inflammation: Vit B2 & vit A deficiencies
+
+NAILS
+
+
+
+Spooning: Iron deficiency
+Transverse lines: Protein deficiency
+
+SKIN
+
+
+
+
+
+
+Pallor : Folic acid, iron, B12
+Follicular hyperkeratosis: Vitamin B & Vitamin C
+Flaking dermatitis: PEM, Vit B2, Vitamin A, Zinc & Niacin
+Pigmentation, desquamation: Niacin & PEM
+Bruising, purpura: Vit K ,Vit C & folic acid
+
+ Thyroid gland :in mountainous areas and far from sea places Goiter is a reliable sign of iodine eficiency.
+ Joins & bones: Help detect signs of vitamin D deficiency (Rickets)
+Anthropometric Methods
+Anthropometry is the study and technique of human body measurement. It is used to measure and monitor the
+nutritional status of an individual or population group.
+
+
+
+
+
+
+extremely useful tool for the application of nutritional therapy.
+measurement of body height, weight & proportions.
+essential component of clinical examination of infants, children & pregnant women.
+used to evaluate both under & over nutrition.
+measured values reflects the current nutritional status.
+18 | P a g e
+
+
+
+data used in order to identify the nutritional status of the individual, to design the appropriate nutritional
+therapy and to investigate the need for greater nutritional support.
+
+Other anthropometric Measurements
+
+
+
+
+
+
+
+
+Waist circumference
+Hip circumference
+Hip/waist ratio
+Mid-arm circumference
+Skin fold thickness
+Head circumference
+Head/chest ratio
+
+Anthropometry for children
+
+
+
+Growth Monitoring Chart
+Percentile chart
+
+WHO Growth Charts Developed using data collected in the WHO Multicentre Growth Reference Study in
+Brazil, Ghana, India, Norway, Oman, and the United States between 1997 and 2003 to generate new curves
+for assessing the growth and development of children from birth to five years of age under optimal
+environmental conditions. They are intended to be used to assess children everywhere, regardless
+of ethnicity, socioeconomic status and type of feeding. They show how children should grow.
+
+The WHO Child Growth Standards released in April 2006 depict normal early childhood growth under
+optimal environmental conditions and can be used to assess children everywhere, regardless of ethnicity,
+socioeconomic status and type of feeding. This is the more universal standards based on a more diverse and
+international group of children, recognizing the fact that children everywhere grow similarly when their health
+and care needs are met.
+Z-score A score that indicates how far a measurement is from the median - also known as standard deviation
+(SD) score. The reference lines on the growth charts (labelled 1, 2, 3, -1, -2, -3) are called z-score
+lines; they indicate how far points are above or below the median (z-score 0).
+Stunting Stunting, or chronic undernutrition, is a form of undernutrition. It is defined by a height-for-age
+(HFA) z-score below two SDs of the median WHO standards). Stunting is a result of prolonged or repeated
+episodes of undernutrition starting before birth. This type of undernutrition is best addressed through preventive
+maternal health programmes aimed at pregnant women, infants, and children under age 2. Programme responses
+to stunting require longer-term planning and policy development.
+Underweight Underweight is a composite form of undernutrition including elements of stunting and wasting
+and is defined by a weight-forage (WFA) z-score below 2 SDs of the median (WHO standards). This indicator
+is commonly used in growth monitoring and promotion (GMP) and child health and nutrition programmes
+aimed at the prevention and treatment of undernutrition.
+
+19 | P a g e
+
+Wasting Wasting is a form of acute malnutrition. It is defined by a MUAC < 125 mm or a WFH < -2 z-score
+(WHO standards) or WFH < 80% of the median.
+Acute Malnutrition: Acute malnutrition is a form of undernutrition. It is caused by a decrease in food
+consumption and/or illness resulting in bilateral pitting oedema or sudden weight loss. It is defined by the
+presence of bilateral pitting oedema or wasting (low mid-upper arm circumference [MUAC] or low weight-forheight [WFH]). The WFH indicator is expressed as a z-score below two standard deviations (SDs) of the
+median (or WFH z-score < -2) of the World Health Organization (WHO) child growth standards (WHO
+standards), or as a percentage of the median < 80% of the National Centre for Health Statistics (NCHS) child
+growth references.
+Severe Acute Malnutrition (SAM) SAM is defined by the presence of bilateral pitting oedema or severe
+wasting (MUAC < 110 mm or a Severe Wasting WFH < -3 z-score or WFH < 70% of the median. A child with
+SAM is highly vulnerable and has a high mortality risk. SAM can also be used as a population-based indicator
+defined by the presence of bilateral pitting oedema or severe wasting (WFH < -3 z-score).
+Moderate Acute Malnutrition (MAM) Moderate Wasting: MAM, or moderate wasting, is defined by a
+MUAC ≥ 110 mm and < 125 mm or a WFH ≥ -3 z-score and < -2 z-score of the median (WHO standards) or
+WFH as a percentage of the median ≥70% and < 80%. MAM can also be used as a population-level indicator
+defined by WFH ≥ -3 z-score and < -2 z-score.
+.
+
+20 | P a g e
+
+21 | P a g e
+
+22 | P a g e
+
+NUTRITIONAL STATUS OF CHILDREN
+Height-for-age, Weight-for-height and Weight-for-age.
+
+Height-for-age
+ Indicator of linear growth retardation and cumulative growth deficits in children.
+ Height-for-age Z-score: below minus two standard deviations (-2 SD) from the median of the WHO
+reference population, short for their age (stunted), or chronically malnourished.
+ Below minus three standard deviations (-3 SD), severely stunted.
+ Stunting reflects failure to receive adequate nutrition over a long period of time and is affected by
+recurrent and chronic illness.
+ Height-for-age: represents the long-term effects of malnutrition in a population; not sensitive to recent,
+short-term changes in dietary intake.
+Weight-for-height
+ reflects recent nutritional status (Acute malnutrition).
+ selection criterion for selective feeding programmes.
+ Z-scores below minus two standard deviations (-2 SD), thin (wasted) or acutely malnourished; below
+minus three standard deviations (-3 SD), are considered severely wasted; more than two standard
+deviations (+2 SD), overweight or obese.
+ Wasting: failure to receive adequate nutrition, inadequate food intake or a recent episode of illness.
+Weight-for-age
+ Composite index of height-for-age and weight-for-height.
+ Both chronic and acute malnutrition.
+ Below minus two standard deviations (-2 SD), as underweight. Children whose weight-for-age is below
+minus three standard deviations (-3 SD) are considered severely underweight.
+Indicators to assess acute malnutrition:
+Mid-Upper Arm Circumference (MUAC): commonly used to initially screen children (6-59 months) for
+admission to feeding programmes, particularly in the acute phase of an emergency. It is simple to use, cheap
+and acceptable to mothers.
+
+
+
+
+Severe Acute Malnutrition (SAM), cut-off points to the following:
+SAM: MUAC < 115 mm3
+Moderate Acute Malnutrition (MAM): MUAC > 115 and < 125 mm
+
+Bilateral Pitting Oedema:
+ a clinical sign of severe acute malnutrition
+ individuals with oedema cannot always be perfectly anthropometrically assessed.
+ A child is considered to have nutritional oedema if a depression (shallow print or pit) is left after normal
+thumb pressure is applied on both feet for 3 seconds.
+Measurements for adults
+23 | P a g e
+
+Height: The subject stands erect & bare footed on a stadiometer with a movable head piece. The head piece is
+leveled with skull vault & height is recorded to the nearest 0.5 cm.
+WEIGHT: Use a regularly calibrated electronic or balanced-beam scale. Weigh in light clothes, no shoes. Read
+to the nearest 100 gm (0.1kg)
+MUAC
+For pregnant women:
+Since a MUAC < 230 mm has been shown to carry a risk of growth retardation of the foetus, using this cut-off
+point for admission into feeding programmes would allow addressing the problem of malnutrition in both
+mother and foetus by contributing to an improved birth outcome. In practice, MUAC < 210 mm is often used in
+emergency interventions. The choice should be made according to proportions of women falling under each
+category of MUAC and available resources.
+For adults: for both sexes, the following cut-off points be used for screening adult admissions to feeding
+centres:
+SAM: BMI < 16
+MAM: BMI > 16 and < 17
+The following cut-off points proposed in the WHO Expert Consultation Report:
+For men:
+SAM: MUAC < 224 mm
+MAM: MUAC > 224 mm and < 231 mm
+For women:
+SAM: MUAC < 214 mm
+MAM: MUAC > 214 mm and < 221 mm
+
+Nutritional Indices in Adults
+Body Mass Index (BMI)
+The international standard for assessing body size in adults.
+
+
+
+formula: BMI = Weight (kg)/ Height (m²)
+high BMI (obesity level): type 2 diabetes & high risk of cardiovascular morbidity & mortality
+
+BMI (WHO - Classification):Classification of weight status by BMI
+
+24 | P a g e
+
+Waist circumference: Waist circumference is measured at the level of the umbilicus to the nearest 0.5 cm. The
+subject stands erect with relaxed abdominal muscles, arms at the side, and feet together. Waist circumference
+predicts mortality better than any other anthropometric measurement. It has been proposed that waist
+measurement alone can be used to assess obesity, and two levels of risk have been identified
+
+MALES
+
+FEMALE
+
+LEVEL 1
+
+> 94cm
+
+> 80cm
+
+LEVEL2
+
+> 102cm
+
+> 88cm
+
+Level 1 is the maximum acceptable waist circumference irrespective of the adult age and there should be no
+further weight gain.
+Level 2 denotes obesity and requires weight management to reduce the risk of type 2 diabetes & CVS
+complications.
+Hip Circumference: Is measured at the point of greatest circumference around hips & buttocks to the nearest
+0.5 cm. The subject should be standing and the measurer should squat beside him. Both measurement should be
+taken with a flexible, non-stretchable tape in close contact with the skin, but without indenting the soft tissue.
+Interpretation of waist/hip (ratioWHR)
+A WHR of 0.7 for women and 0.9 for men has been shown to correlate strongly with a general status of healthy.
+High risk WHR= >0.80 for females & >0.95 for males i.e. waist measurement >80% of hip measurement for
+women and >95% for men indicates central (upper body) obesity and is considered high risk for diabetes &
+CVS disorders. A WHR below these cut-off levels is considered low risk.
+
+25 | P a g e
+
+ADVANTAGES OF ANTHROPOMETRY
+
+
+
+
+
+Measures many variables of nutritional significance (Ht, Wt, MAC, HC, skin fold thickness, waist & hip
+ratio & BMI).
+Readings are numerical & gradable on standard growth charts
+Readings are reproducible.
+Non-expensive & need minimal training
+
+Limitations of Anthropometry
+
+
+
+
+
+Inter-observers errors in measurement
+Limited nutritional diagnosis
+Problems with reference standards, i.e. local versus international standards
+Arbitrary statistical cut-off levels for what considered as abnormal values
+
+DIETARY ASSESSMENT
+A dietary assessment can provide an information not only of a person’s normal food intake but also of the
+quality of that diet. Nutritional intake of humans is assessed by five different methods.
+
+
+
+
+
+
+24 hours dietary recall
+Food frequency questionnaire
+Dietary history since early life
+Food dairy technique
+Observed food consumption
+
+24 Hours Dietary Recall: A trained interviewer asks the subject to recall all food & drink taken in the previous
+24 hours. It is quick, easy, & depends on short-term memory, but may not be truly representative of the person’s
+usual intake
+Food Frequency Questionnaire: In this method the subject is given a list of around 100 food items to indicate
+his or her intake (frequency & quantity) per day, per week & per month.
+
+
+inexpensive, more representative & easy to use.
+
+Limitations:
+
+
+
+
+Long Questionnaire
+Errors with estimating serving size
+Needs updating with new commercial food products to keep pace with changing dietary habits
+
+DIETARY HISTORY: It is an accurate method for assessing the nutritional status.The information should be
+collected by a trained interviewer. Details about usual intake, types, amount, frequency & timing needs to be
+obtained. Cross-checking to verify data is important.
+FOOD DAIRY: Food intake (types & amounts) should be recorded by the subject at the time of consumption.
+The length of the collection period range between 1-7 days. Reliable but difficult to maintain.
+26 | P a g e
+
+Observed Food Consumption
+
+
+
+
+The most unused method in clinical practice, but it is recommended for research purposes.
+The meal eaten by the individual is weighed and contents are exactly calculated.
+The method is characterized by having a high degree of accuracy but expensive & needs time & efforts.
+
+Interpretation of Dietary Data
+Qualitative Method
+
+
+
+using the food pyramid & the basic food groups method.
+Different nutrients are classified into 5 groups (fat & oils, bread & cereals, milk products, meat-fishpoultry, vegetables & fruits) .determine the number of serving from each group & compare it with
+minimum requirement.
+
+The Food Guide Pyramid: the main sections, the food groups and the suggested servings of the pyramid.
+
+27 | P a g e
+
+2. Quantitative Method
+
+
+
+The amount of energy & specific nutrients in each food consumed can be calculated using food
+composition tables & then compare it with the recommended daily intake.
+Evaluation by this method is expensive & time consuming, unless computing facilities are available.
+
+Biochemical Laboratory Assessment
+The evaluation of vitamins and minerals levels in the body can be done by the measurement of these or their
+products of metabolism, in the bloody fluids and other biological materials. Serum proteins seem to be useful
+markers of nutritional status.
+Serum albumin
+The serum albumin level is an indicative marker, for the nutritional evaluation of a patient. Patients with low
+serum albumin levels are in poor nutritional condition and at high risk of death.
+Prealbumin
+Malnourished patients have significantly lower levels of prealbumin. Thus, determining the levels of
+prealbumin can be a sensitive and cost-effective method of assessing the severity of illness, which can result
+from malnutrition in patients who are critically ill or have a chronic disease and may allow for earlier
+recognition and intervention for malnutrition.
+Serum creatinine
+This protein is used as a nutritional marker, because of its relation to muscle mass.It is the most commonly used
+indicator of renal function.
+Serum transferrin
+This is an iron-transport protein, which serves as a sensitive marker of total nutrition status and more
+specifically as a marker of iron deficiency. Serum transferrin receptor (sTfR) level is a new specific and
+sensitive indicator of tissue iron status and iron deficiency. Hemoglobin estimation is the most important test, &
+useful index of the overall state of nutrition. Beside anemia it also tells about protein & trace element nutrition.
+
+Advantages of Biochemical Method
+
+
+
+
+It is useful in detecting early changes in body metabolism & nutrition before the appearance of overt
+clinical signs.
+It is precise, accurate and reproducible.
+Useful to validate data obtained from dietary methods e.g. comparing salt intake with 24-hour urinary
+excretion.
+
+Limitations of Biochemical Method
+
+
+
+
+
+Time consuming
+Expensive
+They cannot be applied on large scale
+Needs trained personnel & facilities
+28 | P a g e
+
+29 | P a g e
+
+30 | P a g e
+
+31 | P a g e
+
+32 | P a g e
+
+Epidemiology of nutritional disorders in Nepal: common
+nutritional disorders and their prevalence rates and trends over
+the last ten years, causal factors.
+Source: Nepal Demographic and Health Survey 2011
+Key Findings (Summary):Current nutritional situation of Nepalese mothers and children
+• Forty-one percent of children under five years of age are stunted, 11 percent are wasted, and 29 percent are
+underweight.
+• Breastfeeding is nearly universal in Nepal.
+• Seventy percent of children less than age 6 months are exclusively breastfed, and the median duration of
+exclusive breastfeeding is 4.2 months.
+• Complementary foods are not introduced in a timely fashion for all children. Seventy percent of breastfed
+children have been given complementary foods by age 6-9 months.
+• Only one-fourth of children age 6-23 months are fed appropriately based on recommended infant and young
+child feeding (IYCF) practices.
+• Forty-six percent of children age 6-59 months are anemic, 27 percent are mildly anemic, 18 percent are
+moderately anemic, and less than 1 percent are severely anemic.
+• Eighteen percent of women are malnourished, that is, they fall below the body mass index (BMI) cutoff of
+18.5.
+ Fourteen percent of women are overweight or obese.
+ Women’s nutritional status has improved only slightly over the years.
+• Thirty-five percent of women age 15-49 are anemic, 29 percent are mildly anemic, 6 percent are moderately
+anemic, and less than 1 percent are severely anemic.
+
+Measures of Child Nutrition Status in Nepal
+Height-for-age
+
+
+Nationally, 41% of children under age 5 are stunted, and 16 percent are severely stunted.
+
+Weight-for-height
+
+
+Overall, 11 percent of children are wasted and 3 percent are severely wasted.
+
+Weight-for-age
+
+
+29 percent of children under age 5 are underweight (low weight-for-age), and 8 percent are severely
+underweight.
+
+Trends in Children’s Nutritional Status
+ In general, the nutritional status of children in Nepal has improved over the past 15 years and is close to
+achieving the Millennium Development Goal (MDG) target of reducing the percentage of underweight
+children age 6-59 months to 29 percent by 2015 (National Planning Commission, 2010a).
+33 | P a g e
+
+
+
+
+
+
+A downward trend in stunting and underweight over time.
+The percentage of stunted children declined by 14 percent between 2001 and 2006 and declined by an
+additional 16 percent between 2006 and 2011.
+A similar pattern is observed for the percentage of underweight children, which dropped by 9 percent
+between 2001 and 2006 and by 26 percent between 2006 and 2011.
+Similarly, the percentage of wasting declined by 15 percent between 2006 and 2011.
+
+34 | P a g e
+
+35 | P a g e
+
+PREVALENCE OF ANEMIA IN CHILDREN
+Anemia, characterized by a low level of hemoglobin in the blood, is a major health problem in Nepal, especially
+among young children and pregnant women. Anemia may be an underlying cause of maternal mortality,
+spontaneous abortions, premature births, and low birth weight. The most common cause of anemia is inadequate
+36 | P a g e
+
+dietary intake of nutrients necessary for synthesis of hemoglobin, such as iron, folic acid, and vitamin B12.
+Anemia also results from sickle cell disease, malaria, and parasitic infections.
+
+
+46 percent of children in Nepal are anemic; 27 percent are mildly anemic, 18 percent are moderately
+anemic, and less than 1 percent are severely anemic.
+
+37 | P a g e
+
+38 | P a g e
+
+NUTRITIONAL STATUS OF WOMEN
+Short stature reflects poor socioeconomic conditions and inadequate nutrition during childhood and
+adolescence. In a woman, short stature is a risk factor for poor birth outcomes and obstetric complications. For
+example, short stature is associated with small pelvic size, which increases the likelihood of difficulty during
+delivery and the risk of bearing low birth weight babies. A woman is considered to be at risk if her height is
+below 145 cm.
+
+
+
+
+
+12 percent of women are shorter than 145 cm.
+BMI was used to measure thinness or obesity.
+o A BMI below 18.5 indicates thinness or acute undernutrition, and a BMI of 25.0 or above
+indicates overweight or obesity.
+o A BMI below 16 kg/m2 indicates severe undernutrition and is associated with increased
+mortality.
+o Low pre-pregnancy BMI, as with short stature, is associated with poor birth outcomes and
+obstetric complications.
+The mean BMI among women age 15-49 is 21 kg/m2. Mean BMI generally increases with age.
+
+39 | P a g e
+
+40 | P a g e
+
+PREVALENCE OF ANEMIA IN WOMEN
+In Nepal, a number of interventions have been put in place to address anemia in women. These include
+supplementation of iron with folic acid tablets for pregnant women from the second trimester to 45
+daysfollowing delivery, deworming of pregnant women after completion of the first trimester, postpartum
+vitamin A supplements, and promotion of the use of insecticide-treated mosquito nets for pregnant women in
+malariaendemic areas.
+
+
+
+
+
+35 percent of women age 15-49 are anemic, 6 percent are moderately anemic, and a very small
+proportion are severely anemic (0.3 percent).
+Anemia prevalence has declined by only 1 percentage point since the 2006 NDHS.
+There is also no difference in the prevalence of mild and moderate anemia between the two surveys.
+The prevalence of anemia is associated with maternity status.
+
+Compare NDHS 2011 with the one with 2001: National Nutrition Policy and Strategy, Nutrition Section, CHD,
+DoHS, MoH&P. 24thDecember 2004.
+
+41 | P a g e
+
+42 | P a g e
+
+Compare NDHS 2011 with the one with 2001: National Nutrition Policy and Strategy, Nutrition Section, CHD,
+DoHS, MoH&P. 24thDecember 2004
+
+Prevalence of Hypertension, Obesity, Diabetes, and Metabolic Syndrome in Nepal
+
+
+
+
+
+
+A double disease burden: infectious diseases as well as rising incidence of noncommunicable diseases
+(e.g., cardiovascular disease and diabetes mellitus) frequently characterized by obesity.
+Significant lifestyle changes. Ongoing urbanization promotes risk factors including sedentary lifestyle
+and fat- and sugar-laden diets.
+As diets rich in fibre and complex carbohydrates shift toward diets that include more sugars and fats, the
+urbanization process precipitates greatly increased levels of lifestyle-related risk factors.
+Changing dietary habits can shift a society’s disease pattern from infectious, communicable diseases’
+dominance towards a status of double-disease burden with increasing prevalence of obesity and
+noncommunicable diseases (NCDs).
+The high incidence of dyslipidemia and abdominal obesity could be the major contributors to MS in
+Nepal.
+
+A study in urban Kathmandu showed a high prevalence of diabetes (19%). The Nepal Non-Communicable
+Diseases Risk Factor Survey, which included 15 of 75 districts and represented all five administrative regions
+and three ecological regions, estimated the prevalence of overweight at about 7% and the prevalence of obesity
+at around 1.7% (Figure 1).
+
+Other regional studies conducted since 2000 have shown a prevalence of overweight (between 20% and 34%),
+but prevalence of obesity varied widely (0.4% to 10.14%; Table 1).
+
+43 | P a g e
+
+44 | P a g e
+
+
+
+
+The 2007 NCD Risk Factor survey estimated average male waist circumference in Nepal at 74.9 cm, in
+females, it was 70.3 cm (68.9–71.8 cm).
+The 2005 Dharan study reported a prevalence of both general and central obesity in 1,000 males (Table
+2). At the waist-hip ratio cut-off (>0.90 cm), high levels of central obesity (between 40% and 60%)
+occur across different demographic groups and exceed those for general obesity, as indicated by BMI, in
+the same population. Urbanization in Nepal has been linked with increased occurrence of type 2
+diabetes.
+
+Prevalence of Overweight, Obesity, and Abdominal Obesity. Results are shown across selected demographic
+parameters. Data given as percentages and adapted from a 2005 population-based study of 1,000 urban males of
+the Eastern Nepalese town of Dharan.
+
+45 | P a g e
+
+46 | P a g e
+
+

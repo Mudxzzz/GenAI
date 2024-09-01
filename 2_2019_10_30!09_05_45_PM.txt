@@ -1,0 +1,319 @@
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+Introduction to Clinical Nutrition
+Human nutrition: describes the processes whereby the human body obtain and
+use necessary substances from foods (nutrients) to maintain structural and
+functional integrity.
+Clinical nutrition focuses on the nutritional management of individual patients
+or groups of patients with established disease. Public health nutrition: focuses
+on health promotion and disease prevention in the general population.
+Nutrients: chemical substances obtained from food and used in the body to
+provide energy, structural materials, and regulating agents to support growth,
+maintenance, and repair of the body’s tissues. Nutrients may also reduce the risks
+of some diseases.
+Essential nutrients: nutrients a person must obtain from food because the body
+cannot make them for itself in sufficient quantity to meet physiological needs;
+also called indispensable nutrients.
+Classification of nutrients
+The major nutrients have traditionally been classified according to the amounts
+in which they are required, their chemical nature and their functions in the body.
+A principal distinction is between macronutrients and micronutrients.
+ Macronutrients are required in large amounts by the body, usually measured
+in tens of grams.
+ Micronutrients are substances required in very small amounts by the body,
+generally measured in milligrams or micrograms.
+Macronutrients
+ The macronutrients found in the diet are carbohydrates, fats and proteins.
+1
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+ Carbohydrates and fats are the major providers of energy, although protein
+can also provide energy.
+ They all have a structural role, the most important in this respect being
+proteins.
+ All contain carbon, hydrogen and oxygen; in addition, proteins contain
+nitrogen and some contain sulphur.
+1. Carbohydrates
+These are saccharides, combined in various degrees of complexity to form the
+simple sugars, and larger units such as oligosaccharides and polysaccharides.
+Their main function is to act as a source of energy, in the form of glucose. Some
+resist
+
+digestion
+
+(termed
+
+nonglycemic),
+
+and
+
+comprise
+
+the
+
+non-starch
+
+polysaccharides (NSP), which are part of ‘dietary fibre’ and have a role in bowel
+function.
+2. Fats
+Fats comprise a diverse group of lipid-soluble substances, the majority being
+triglycerides or triacylglycerols (TAGs). Derived products such as phospholipids
+and sterols (most notably cholesterol) are included in this group.
+TAGs are broken down to yield energy, and form the major energy reserve in the
+body, in adipose tissue. Specific fatty acids found in TAGs are important in cell
+membrane structure and function, and must be supplied in the diet. These are
+termed essential fatty acids.
+3. Proteins
+Proteins consist of chains of individual amino acids, combined to form a large
+variety of proteins. On digestion, individual amino acids are used for the synthesis
+of other amino acids and proteins required by the body, involving considerable
+recycling of the components.
+2
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+There are eight ‘essential amino acids’ (more in children), which must be supplied
+by the diet. In addition, some may become ‘conditionally’ essential in particular
+situations of physiological stress. Only when there is no further need for amino
+acids are they broken down and used as a source of energy, and the nitrogen part
+excreted as urea.
+Micronutrients
+1. Minerals
+These are inorganic substances needed in small amounts, generally as part of the
+structure of other molecules (e.g. iron as part of haemoglobin), or as essential
+cofactors for the activity of enzymes (e.g. selenium in glutathione peroxidase).
+Uptake of some minerals from the diet must be carefully regulated as there is
+limited excretion, and potential toxicity may result if large amounts accumulate
+in storage organs. In addition, some minerals compete with each other for
+absorption, so excessive intakes of one may hinder uptake of another (e.g. zinc
+and iron, or iron and calcium).
+2. Vitamins
+These share the common feature of being organic substances, required by the
+body in small amounts for its normal functioning. The vitamins are sub-classified,
+into water-soluble (vitamin C and B vitamins) and fat-soluble (vitamins A, D, E
+and K) groups. It is now recognised that vitamin D is synthesised in the skin by
+the action of ultraviolet light on a precursor, and could strictly be termed a
+hormone rather than a vitamin. Further, niacin can be made in the body from the
+amino acid tryptophan, so a separate supply may not be needed if protein intakes
+are adequate. However, in both of these cases, there are situations where synthesis
+is insufficient, and so a dietary need remains.
+
+3
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+Water
+Water provides the basic medium in which all the body’s reactions occur. An
+inadequate level of fluid intake will quickly compromise the metabolic functions
+of the body and disturb the homeostatic mechanisms that operate.
+Nutritional requirements
+A certain amount of every nutrient is used by the body every day. This amount
+must therefore be replaced, either from the diet or from body stores. A
+requirement is defined as the amount of a specific nutrient required by an
+individual to prevent clinical signs of deficiency.
+Using the results of thousands of research studies, nutrition experts have
+produced a set of standards that define the amounts of energy, nutrients, other
+dietary components, and physical activity that best support health. These
+recommendations are called Dietary Reference Intakes (DRI). These DRI apply
+to healthy people and may not be appropriate for people with diseases. Patients
+with certain diseases may require increase or decrease in nutrient needs.
+Dietary Reference Intakes (DRIs) A set of four types of nutrient intake
+reference standards used to assess and plan dietary intake; these include the
+Estimated Average Requirements (EARs), Recommended Dietary Allowances
+(RDAs), Adequate Intake levels (AIs), and the Tolerable Upper Intake Levels
+(ULs).
+Estimated Average Requirement (EAR) The amount of a nutrient that meets
+the physiological requirements of half the healthy population in a specified life
+stage and gender group.
+
+4
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+Recommended Dietary Allowance (RDA) The average intake of a nutrient
+thought to meet the nutrient requirements of nearly all (97%) healthy people in a
+specified life stage and gender group.
+Adequate Intake (AI) level Nutrient intake of healthy populations that appears
+to support adequate nutritional status; established when RDAs cannot be
+determined.
+Tolerable Upper Intake Level (UL) The highest level of chronic intake of a
+nutrient thought to be not detrimental to health.
+
+Energy from foods
+The amount of energy a food provides depends on how much carbohydrate, fat,
+and protein it contains. When completely broken down in the body, a gram of
+carbohydrate yields about 4 kcalories of energy; a gram of protein also yields 4
+kcalories; and a gram of fat yields 9 kcalories. Because fat provides more energy
+per gram, it has a greater energy density than either carbohydrate or protein.
+Calories: units by which energy is measured. Food energy is measured in
+kilocalories (1000 calories equal 1 kilocalorie), abbreviated kcalories or kcal. One
+kcalorie is the amount of heat necessary to raise the temperature of 1 kilogram of
+water by 1°C. The scientific use of the term kcalorie is the same as the popular
+5
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+use of the term calorie. However, the international unit for measuring food energy
+is the joule, a measure of work energy. One joule is the energy used when a mass
+of 1 kilogram is moved through 1 meter by using a force of 1 newton. To convert
+kcalories to kilojoules, multiply by 4.2; to convert kilojoules to kcalories,
+multiply by 0.24.
+To calculate the energy available from a food, multiply the number of grams of
+carbohydrate, protein, and fat by 4, 4, and 9, respectively. Then add the results
+together. For example, 1 slice of bread with 1 tablespoon of peanut butter on it
+contains 16 grams carbohydrate, 7 grams protein, and 9 grams fat:
+ 16 g carbohydrate × 4 kcal/g = 64 kcal
+ 7 g protein × 4 kcal/g = 28 kcal
+ 9 g fat × 9 kcal/g = 81 kcal
+ Total = 173 kcal
+Energy in the body: The body uses the energy-yielding nutrients to fuel all its
+activities. When the body uses carbohydrate, fat, or protein for energy, the bonds
+between the nutrient’s atoms break. As the bonds break, they release energy.
+Some of this energy is released as heat, but some is used to send electrical
+impulses through the brain and nerves, to synthesize body compounds, and to
+move muscles.
+If the body does not use these nutrients to fuel its current activities, it converts
+them into storage compounds (such as body fat) to be used between meals and
+overnight when fresh energy supplies run low. If more energy is consumed than
+expended, the result is an increase in energy stores and weight gain. Similarly, if
+less energy is consumed than expended, the result is a decrease in energy stores
+and weight loss.
+
+6
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+Energy requirements
+Estimated Energy Requirement (EER): the average dietary energy intake that
+maintains energy balance and good health in a person of a given age, gender,
+weight, height, and level of physical activity. There are two approaches to
+assessing energy requirements for subjects who are weight-stable and close to
+energy balance:
+1. Assessment of energy intake: Energy intake can be estimated from dietary
+surveys and, in the past, this has been used to decide daily energy
+requirements. However, measurement of energy expenditure gives a more
+accurate assessment of requirements.
+2. Assessment of total energy expenditure: Daily energy expenditure is the
+sum of:
+a. The basal metabolic rate (BMR): is the minimum amount of energy
+expended that is compatible with life. An individual’s BMR reflects the
+amount of energy used during 24 hours while physically and mentally at rest
+in a thermoneutral environment that prevents the activation of heat-generating
+processes, such as shivering.
+Factors affecting BMR include: Age (higher in younger), gender (higher in
+males), body composition (higher in leaner [muscular] individuals), body size
+(higher in larger people), food intake (higher with caffeine or nicotine intake).
+b. The diet-induced thermogenesis: is the increase in energy expenditure
+associated with the consumption, digestion, and absorption of food. This
+represent about 10% of total energy expenditure.
+c. Physical activity: this encompasses all types of activity, including sports and
+leisure, work-related activities, general activities of daily living, and fidgeting.
+The metabolic rate of physical activity is determined by the amount or
+duration of activity (i.e., time), the type of physical activity (e.g., walking,
+7
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+running, typing), and the intensity at which the particular activity is
+performed. The contribution of physical activity is the most variable
+component of total energy expenditure, which may be as low as 100 kcal/day
+in sedentary people or as high as 3000 kcal/day in athletes.
+Non-exercise activity thermogenesis (NEAT): represents the energy expended
+during the workday and during leisure-type activities (e.g., shopping, fidgeting,
+even gum chewing), which may account for vast differences in energy costs
+among people.
+The ratio of total energy expenditure to BMR provide a rough index of physical
+activity referred to as physical activity level (PAL). If the person is sedentary, the
+PAL coefficient is 1.0. If the person is somewhat active, the PAL coefficient is
+1.12. If the person is active, the PAL coefficient is 1.27. If the person is very
+active, the PAL coefficient is 1.45.
+Regulation of food intake and energy expenditure
+Hunger can be defined as a demand for energy (e.g. after starvation), while
+appetite refers to a demand for a particular food. Satiety refers to the inhibition
+of further intake of food or meal after eating has ended. There are both short- and
+long-term mechanisms for regulating food intake and energy expenditure so as to
+maintain energy balance.
+Short-term signals regulating food intake: The distention of the stomach wall
+in response to the presence of food, called gastric stretching, provides a powerful
+satiety signal. The GI tract has specialized receptors (mechano-receptors) that are
+responsive to this type of stretching.
+The concentration of certain nutrients in the blood can also influence hunger and
+satiety. For example, the brain is very sensitive to changes in blood glucose and
+amino acids levels. When blood glucose and amino acids increase following a
+8
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+meal, the brain responds by releasing neurotransmitters that stimulate satiety,
+providing a signal to stop eating.
+The presence of food in the stomach and small intestine can trigger the release of
+several GI hormones, the majority of which promote satiety (table below).
+
+Long-term signals regulating food intake and energy homeostasis: Insulin
+and leptin are the two most important long-term regulators of food intake and
+energy balance. Both insulin and leptin act in the CNS to inhibit food intake and
+to increase energy expenditure, most likely by activating the sympathetic nervous
+system (SNS).
+Insulin is secreted from beta cells in the endocrine pancreas in response to
+circulating nutrients (glucose and amino acids) and to the incretin hormones,
+glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1
+(GLP-1), which are released during meal ingestion and absorption.
+Leptin is mainly secreted by the adipose tissue and its main function is to regulate
+long-term food intake and energy expenditure in response to the state of fat
+reserves. The gastric hormone ghrelin increases food intake and decreases fat
+
+9
+
+Internal Medicine (Nutrition)
+Lecture 1
+
+Dr. Ammar Waham Ashor
+
+oxidation in rodents and may have an anabolic role in long-term food intake
+regulation
+Appetite Effects on Energy Intake
+Two important responses that help maintain a healthy body weight are eating
+when you hungry and stopping when you are full. However, sometimes we eat
+for reasons other than hunger, and at times we eat past satiety. The stimuli that
+override hunger and satiety tend to be more psychological than physiological.
+Whereas appetite is the psychological longing or desire for food, a food aversion
+is a strong psychological dislike of a particular food or foods. Sometimes, even
+the thought or smell of certain foods can trigger an adverse physical response.
+Our appetite can be an important determinant of what and when we eat. When the
+desire for a specific food is especially compelling, it is often referred to as a food
+craving.
+Estimation of energy requirement
+
+PAL
+
+10
+
+
